@@ -115,26 +115,6 @@ PB级数据处理、分析与可视化平台。
 
 ---
 
-## 📈 GitHub Stats | GitHub 统计
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=underestimatedme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=underestimatedme&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=underestimatedme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=underestimatedme&layout=compact&langs_count=8&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=underestimatedme&layout=compact&langs_count=8&theme=default" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=underestimatedme&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 👀 Profile Views | 访问量
