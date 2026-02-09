@@ -135,18 +135,6 @@ PB级数据处理、分析与可视化平台。
 
 ---
 
-## 🎓 Education | 教育背景
-
-<div align="center">
-
-🏫 **Anhui University | 安徽大学**
-
-📚 Computer Science | 计算机科学专业
-
-</div>
-
----
-
 <div align="center">
 
 ### 👀 Profile Views | 访问量
