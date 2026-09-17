@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:B026FF,100:00F0FF&height=190&section=header&text=JOEY%20WANG&fontSize=58&fontColor=FFFFFF&fontAlignY=34&desc=%E7%8E%8B%E8%B0%A6%20%C2%B7%20Big%20Data%20%2F%20AI%20Architect&descAlignY=54&descSize=17&animation=fadeIn" width="100%" />
 
-<a href="https://underestimated.cn/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=700&color=00F0FF&center=true&vCenter=true&width=700&height=45&lines=%3E+Big+Data+%2F+AI+Architect+%40+Botim;%3E+Distributed+Systems+%C2%B7+High+Availability+%C2%B7+Low+Latency;%3E+PB-scale+Streaming+%C2%B7+LLM+Systems+%C2%B7+RAG;%3E+turning+bleeding-edge+tech+into+shipped+products" alt="typing" />
-</a>
+**`>_ Big Data / AI Architect @ Botim`**
+
+**`>_ Distributed Systems  ·  PB-scale Streaming  ·  LLM in Production`**
+
+**`>_ turning bleeding-edge tech into shipped products  ·  把前沿技术做成真正能跑的产品`**
 
 <br/>
 
@@ -135,7 +137,7 @@ The layer that carries it all: containers, orchestration, observability — plus
 
 <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=underestimatedme&disable_animations=true&hide_border=true&background=0D1117&stroke=B026FF&ring=FF2E97&fire=FF2E97&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+<img width="72%" src="https://streak-stats.demolab.com?user=underestimatedme&hide_border=true&background=0D1117&stroke=B026FF&ring=FF2E97&fire=FF2E97&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 
 </div>
 
