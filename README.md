@@ -125,16 +125,17 @@ The layer that carries it all: containers, orchestration, observability — plus
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=underestimatedme&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=00F0FF&text_color=C9D1D9&include_all_commits=true&rank_icon=github" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=underestimatedme&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=C9D1D9" alt="languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underestimatedme&theme=radical" alt="profile summary" />
+
+<br/><br/>
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=underestimatedme&theme=radical" alt="repos per language" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underestimatedme&theme=radical" alt="most commit language" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=underestimatedme&theme=radical&utcOffset=4" alt="productive time" />
 
 <br/><br/>
 
 <img width="72%" src="https://streak-stats.demolab.com?user=underestimatedme&hide_border=true&background=0D1117&stroke=B026FF&ring=FF2E97&fire=FF2E97&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=underestimatedme&bg_color=0D1117&color=00F0FF&line=FF2E97&point=B026FF&area=true&area_color=B026FF&hide_border=true&custom_title=Commit%20Waveform%20%C2%B7%20Last%2031%20Days" alt="activity graph" />
 
 </div>
 
