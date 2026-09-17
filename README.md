@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:B026FF,100:00F0FF&height=190&section=header&text=JOEY%20WANG&fontSize=58&fontColor=FFFFFF&fontAlignY=34&desc=%E7%8E%8B%E8%B0%A6%20%C2%B7%20Big%20Data%20%2F%20AI%20Architect&descAlignY=54&descSize=17&animation=fadeIn" width="100%" />
-
-**`>_ Big Data / AI Architect @ Botim`**
-
-**`>_ Distributed Systems  ·  PB-scale Streaming  ·  LLM in Production`**
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/header.svg" width="100%" alt="Joey — underestimatedme — Big Data & AI Architect" />
 
 **`>_ turning bleeding-edge tech into shipped products  ·  把前沿技术做成真正能跑的产品`**
 
@@ -16,39 +12,21 @@
 [![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=0D1117)](mailto:outlierw@gmail.com)
 [![WeChat](https://img.shields.io/badge/WECHAT-0D1117?style=for-the-badge&logo=wechat&logoColor=FFB000&labelColor=0D1117)](# "magic_joey")
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:B026FF,100:00F0FF&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-<br/>
-
-## `░▒▓` SYSTEM.INIT
-
-```yaml
-identity:
-  handle:   "underestimatedme"
-  name:     "Joey Wang / 王谦"
-  role:     "Big Data & AI Architect"
-  base:     "Dubai, United Arab Emirates 🇦🇪"
-  writing:  "underestimated.cn  ·  pen name 乔人尹"
-
-focus:
-  - "distributed systems that must not blink"
-  - "streaming pipelines at PB scale"
-  - "LLM systems that survive contact with production"
-
-philosophy: >
-  Ship the boring reliability first.
-  Then make it fast. Then make it smart.
-```
+## `//` SYSTEM.INIT
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:B026FF,100:00F0FF&height=3&section=header" width="100%" />
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/system-init.svg" width="100%" alt="identity.yaml — handle, role, focus and philosophy" />
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
+
 </div>
 
-<br/>
-
-## `░▒▓` CORE DOMAINS ｜ 技术领域
+## `//` CORE DOMAINS ｜ 技术领域
 
 <table>
 <tr>
@@ -118,12 +96,10 @@ The layer that carries it all: containers, orchestration, observability — plus
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:B026FF,100:00F0FF&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
 </div>
 
-<br/>
-
-## `░▒▓` TELEMETRY ｜ 运行指标
+## `//` TELEMETRY ｜ 运行指标
 
 <div align="center">
 
@@ -141,9 +117,7 @@ The layer that carries it all: containers, orchestration, observability — plus
 
 </div>
 
-<br/>
-
-### ◤ CONTRIBUTION GRID ｜ 贡献矩阵
+### `//` CONTRIBUTION GRID ｜ 贡献矩阵
 
 <div align="center">
 
@@ -157,25 +131,17 @@ The layer that carries it all: containers, orchestration, observability — plus
 
 <img width="98%" src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution" />
 
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
+
 </div>
 
+## `//` UPLINK ｜ 建立连接
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:B026FF,100:00F0FF&height=3&section=header" width="100%" />
-</div>
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/uplink.svg" width="100%" alt="Open to collaboration, architecture reviews and conversation" />
 
 <br/>
-
-## `░▒▓` UPLINK ｜ 建立连接
-
-<div align="center">
-
-```console
-$ ssh joey@underestimated.cn
-
-  [ ✓ ] handshake complete
-  [ ✓ ] open to collaboration, architecture reviews, and long arguments about consistency models
-  [ ✓ ] 欢迎交流合作 —— 分布式架构、实时计算、LLM 落地，或者只是闲聊
-```
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](https://www.linkedin.com/in/qian-wang-joey/)
 [![Blog](https://img.shields.io/badge/BLOG-0D1117?style=for-the-badge&logo=hexo&logoColor=FF2E97&labelColor=0D1117)](https://underestimated.cn/)
@@ -186,6 +152,6 @@ $ ssh joey@underestimated.cn
 
 <img src="https://komarev.com/ghpvc/?username=underestimatedme&label=VISITORS&color=B026FF&style=for-the-badge" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:B026FF,100:FF2E97&height=120&section=footer&reversal=true" width="100%" />
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/footer.svg" width="100%" alt="" />
 
 </div>
