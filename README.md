@@ -135,7 +135,7 @@ The layer that carries it all: containers, orchestration, observability — plus
 
 <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=underestimatedme&hide_border=true&background=0D1117&stroke=B026FF&ring=FF2E97&fire=FF2E97&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+<img width="72%" src="https://streak-stats.demolab.com?user=underestimatedme&disable_animations=true&hide_border=true&background=0D1117&stroke=B026FF&ring=FF2E97&fire=FF2E97&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 
 </div>
 
