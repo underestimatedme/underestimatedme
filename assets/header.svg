@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Joey — underestimatedme — Big Data and AI Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06080F"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2E97"/>
+      <stop offset="0.5" stop-color="#B026FF"/>
+      <stop offset="1" stop-color="#00F0FF"/>
+    </linearGradient>
+    <radialGradient id="blobM">
+      <stop offset="0" stop-color="#FF2E97" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FF2E97" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobC">
+      <stop offset="0" stop-color="#00F0FF" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobP">
+      <stop offset="0" stop-color="#B026FF" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#B026FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#182234" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="3" height="1" fill="#000000" opacity="0.28"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <circle cx="150" cy="40" r="260" fill="url(#blobM)"/>
+  <circle cx="1060" cy="260" r="280" fill="url(#blobC)"/>
+  <circle cx="620" cy="300" r="300" fill="url(#blobP)"/>
+
+  <path d="M -120 300 L 420 -40 L 470 -40 L -70 300 Z" fill="#00F0FF" opacity="0.06"/>
+  <path d="M 760 300 L 1300 -40 L 1320 -40 L 780 300 Z" fill="#FF2E97" opacity="0.06"/>
+
+  <g stroke="#00F0FF" stroke-width="2" fill="none" opacity="0.85">
+    <path d="M 26 62 V 26 H 74"/>
+    <path d="M 1174 238 V 274 H 1126"/>
+  </g>
+  <g stroke="#FF2E97" stroke-width="2" fill="none" opacity="0.85">
+    <path d="M 1174 62 V 26 H 1126"/>
+    <path d="M 26 238 V 274 H 74"/>
+  </g>
+
+  <text x="600" y="132" text-anchor="middle" filter="url(#glow)"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
+        font-size="84" font-weight="700" letter-spacing="14" fill="#FFFFFF">
+    <tspan fill="#FF2E97">&gt;_</tspan> JOEY
+  </text>
+
+  <text x="600" y="178" text-anchor="middle" filter="url(#glowSoft)"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
+        font-size="22" font-weight="600" letter-spacing="6" fill="#00F0FF">@underestimatedme</text>
+
+  <rect x="430" y="202" width="340" height="2" fill="url(#neon)" filter="url(#glowSoft)"/>
+
+  <text x="600" y="240" text-anchor="middle"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
+        font-size="14" letter-spacing="4" fill="#8A93A6">BIG DATA &#183; AI SYSTEMS &#183; DISTRIBUTED INFRASTRUCTURE</text>
+
+  <text x="600" y="266" text-anchor="middle"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
+        font-size="13" letter-spacing="4" fill="#6E7A90">DUBAI &#183; UNITED ARAB EMIRATES</text>
+
+  <rect width="1200" height="300" fill="url(#scan)"/>
+  <rect x="0" y="296" width="1200" height="4" fill="url(#neon)"/>
+</svg>

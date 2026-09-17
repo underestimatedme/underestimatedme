@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="presentation">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#06080F"/>
+    </linearGradient>
+    <linearGradient id="fn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F0FF"/>
+      <stop offset="0.5" stop-color="#B026FF"/>
+      <stop offset="1" stop-color="#FF2E97"/>
+    </linearGradient>
+    <radialGradient id="fblob">
+      <stop offset="0" stop-color="#B026FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#B026FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="fgrid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#161F2F" stroke-width="1"/>
+    </pattern>
+    <pattern id="fscan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="3" height="1" fill="#000000" opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#fbg)"/>
+  <rect width="1200" height="150" fill="url(#fgrid)"/>
+  <circle cx="600" cy="0" r="300" fill="url(#fblob)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#fn)"/>
+
+  <g stroke="#00F0FF" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 26 126 V 138 H 62"/>
+  </g>
+  <g stroke="#FF2E97" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 1174 126 V 138 H 1138"/>
+  </g>
+
+  <text x="600" y="72" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="600" letter-spacing="7" fill="#8A93A6"><tspan fill="#FF2E97">//</tspan> END OF TRANSMISSION</text>
+
+  <text x="600" y="104" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="4" fill="#66738A">@underestimatedme &#183; built with too much coffee</text>
+
+  <rect width="1200" height="150" fill="url(#fscan)"/>
+</svg>
