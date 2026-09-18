@@ -2,6 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/header.svg" width="100%" alt="Joey — underestimatedme — Big Data & AI Architect" />
 
+### ◤ BIG DATA / AI ARCHITECT @ BOTIM ｜ 大数据 / AI 架构师
+
+*Passionate about transforming cutting-edge technology into practical products to solve complex business problems.*
+
+*热衷于将前沿技术转化为实际产品，解决复杂的业务问题。*
+
 **`>_ turning bleeding-edge tech into shipped products  ·  把前沿技术做成真正能跑的产品`**
 
 <br/>
@@ -37,12 +43,9 @@
 
 Services that stay up when a dependency doesn't: idempotency, circuit breaking, backpressure, and retry semantics nobody wants to debug at 3am.
 
-`Idempotency` `Circuit Breaking` `Backpressure` `Consistency` `SLO`
+服务在依赖挂掉时依然活着：幂等、熔断、背压，以及没人想在凌晨三点调试的重试语义。
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=FF2E97&labelColor=0D1117)
-![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=FF2E97&labelColor=0D1117)
-![Dubbo](https://img.shields.io/badge/Dubbo-0D1117?style=flat-square&logo=apache&logoColor=FF2E97&labelColor=0D1117)
-![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=FF2E97&labelColor=0D1117)
+`Idempotency` `Circuit Breaking` `Backpressure` `Consistency` `SLO`
 
 </td>
 <td width="50%" valign="top">
@@ -52,12 +55,9 @@ Services that stay up when a dependency doesn't: idempotency, circuit breaking, 
 
 PB-scale batch and sub-second streaming: lakehouse design, backfills that don't melt the cluster, pipelines you can reason about.
 
-`Lakehouse` `Exactly-once` `CDC` `OLAP`
+PB 级批处理与亚秒级流计算：湖仓设计、不会烧穿集群的回刷，以及讲得清楚的数据链路。
 
-![Spark](https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=apachespark&logoColor=00F0FF&labelColor=0D1117)
-![Flink](https://img.shields.io/badge/Flink-0D1117?style=flat-square&logo=apacheflink&logoColor=00F0FF&labelColor=0D1117)
-![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=flat-square&logo=apachehadoop&logoColor=00F0FF&labelColor=0D1117)
-![Scala](https://img.shields.io/badge/Scala-0D1117?style=flat-square&logo=scala&logoColor=00F0FF&labelColor=0D1117)
+`Lakehouse` `Exactly-once` `CDC` `OLAP`
 
 </td>
 </tr>
@@ -69,12 +69,9 @@ PB-scale batch and sub-second streaming: lakehouse design, backfills that don't 
 
 Retrieval, agents and vision models wired into products — evaluation harnesses, guardrails, and latency budgets that hold.
 
-`RAG` `Agents` `Computer Vision` `Eval`
+把检索、智能体与视觉模型真正接进产品——评测体系、护栏，以及守得住的延迟预算。
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=B026FF&labelColor=0D1117)
-![OpenAI](https://img.shields.io/badge/LLM-0D1117?style=flat-square&logo=openai&logoColor=B026FF&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=B026FF&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=B026FF&labelColor=0D1117)
+`RAG` `Agents` `Computer Vision` `Eval`
 
 </td>
 <td width="50%" valign="top">
@@ -84,12 +81,9 @@ Retrieval, agents and vision models wired into products — evaluation harnesses
 
 The layer that carries it all: containers, orchestration, observability — plus cross-platform clients when the product needs a face.
 
-`K8s` `Observability` `CI/CD` `Cross-platform`
+托住这一切的底座：容器、编排、可观测性——以及产品需要一张脸时的跨端客户端。
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=39FF14&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39FF14&labelColor=0D1117)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=39FF14&labelColor=0D1117)
-![Swift](https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=39FF14&labelColor=0D1117)
+`K8s` `Observability` `CI/CD` `Cross-platform`
 
 </td>
 </tr>
@@ -97,6 +91,46 @@ The layer that carries it all: containers, orchestration, observability — plus
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
+</div>
+
+## `//` TECH STACK ｜ 技术栈
+
+<div align="center">
+
+### ◤ BIG DATA ｜ 大数据
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=00F0FF&labelColor=0D1117)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-0D1117?style=for-the-badge&logo=apacheflink&logoColor=00F0FF&labelColor=0D1117)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-0D1117?style=for-the-badge&logo=apachehadoop&logoColor=00F0FF&labelColor=0D1117)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=00F0FF&labelColor=0D1117)
+
+### ◤ AI & MACHINE LEARNING ｜ AI & 机器学习
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=B026FF&labelColor=0D1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=B026FF&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&labelColor=0D1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=B026FF&labelColor=0D1117)
+
+### ◤ MOBILE & CLIENT ｜ 移动与端上
+
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=39FF14&labelColor=0D1117)
+![iOS](https://img.shields.io/badge/iOS-0D1117?style=for-the-badge&logo=apple&logoColor=39FF14&labelColor=0D1117)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=39FF14&labelColor=0D1117)
+![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=39FF14&labelColor=0D1117)
+
+### ◤ LANGUAGES & TOOLS ｜ 编程语言 & 工具
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF2E97&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF2E97&labelColor=0D1117)
+![Scala](https://img.shields.io/badge/Scala-0D1117?style=for-the-badge&logo=scala&logoColor=FF2E97&labelColor=0D1117)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=FF2E97&labelColor=0D1117)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=FF2E97&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF2E97&labelColor=0D1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=FF2E97&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&labelColor=0D1117)
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
+
 </div>
 
 ## `//` TELEMETRY ｜ 运行指标
