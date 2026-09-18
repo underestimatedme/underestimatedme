@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=0D1117)](mailto:outlierw@gmail.com)
 
 <details>
-<summary><img src="https://img.shields.io/badge/WECHAT%20%E2%96%B8%20SCAN-0D1117?style=for-the-badge&logo=wechat&logoColor=FFB000&labelColor=0D1117" alt="WeChat — 展开二维码" /></summary>
+<summary><kbd>&nbsp;&nbsp;&nbsp;<b>WECHAT</b> &#9656; SCAN &#65372; 点击展开二维码&nbsp;&nbsp;&nbsp;</kbd></summary>
 
 <br/>
 
@@ -203,7 +203,7 @@ The layer that carries it all: containers, orchestration, observability — plus
 [![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=0D1117)](mailto:outlierw@gmail.com)
 
 <details>
-<summary><img src="https://img.shields.io/badge/WECHAT%20%E2%96%B8%20SCAN-0D1117?style=for-the-badge&logo=wechat&logoColor=FFB000&labelColor=0D1117" alt="WeChat — 展开二维码" /></summary>
+<summary><kbd>&nbsp;&nbsp;&nbsp;<b>WECHAT</b> &#9656; SCAN &#65372; 点击展开二维码&nbsp;&nbsp;&nbsp;</kbd></summary>
 
 <br/>
 
