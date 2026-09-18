@@ -16,7 +16,17 @@
 [![Blog](https://img.shields.io/badge/BLOG-0D1117?style=for-the-badge&logo=hexo&logoColor=FF2E97&labelColor=0D1117)](https://underestimated.cn/)
 [![Website](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=B026FF&labelColor=0D1117)](https://me.underestimated.cn/)
 [![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=0D1117)](mailto:outlierw@gmail.com)
-[![WeChat](https://img.shields.io/badge/WECHAT-0D1117?style=for-the-badge&logo=wechat&logoColor=FFB000&labelColor=0D1117)](# "magic_joey")
+
+<details>
+<summary><img src="https://img.shields.io/badge/WECHAT%20%E2%96%B8%20SCAN-0D1117?style=for-the-badge&logo=wechat&logoColor=FFB000&labelColor=0D1117" alt="WeChat — 展开二维码" /></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/wechat-qr.png" width="280" alt="WeChat QR — magic_joey" />
+
+<sub><code>WeChat ID &#183; magic_joey</code></sub>
+
+</details>
 
 <img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
 
@@ -91,6 +101,16 @@ The layer that carries it all: containers, orchestration, observability — plus
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
+</div>
+
+## `//` AI RUNTIME ｜ 智能系统
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/ai-systems.svg" width="100%" alt="AI systems — token stream, transformer layers and a live attention map" />
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/divider.svg" width="100%" alt="" />
+
 </div>
 
 ## `//` TECH STACK ｜ 技术栈
@@ -181,6 +201,17 @@ The layer that carries it all: containers, orchestration, observability — plus
 [![Blog](https://img.shields.io/badge/BLOG-0D1117?style=for-the-badge&logo=hexo&logoColor=FF2E97&labelColor=0D1117)](https://underestimated.cn/)
 [![Website](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=B026FF&labelColor=0D1117)](https://me.underestimated.cn/)
 [![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=0D1117)](mailto:outlierw@gmail.com)
+
+<details>
+<summary><img src="https://img.shields.io/badge/WECHAT%20%E2%96%B8%20SCAN-0D1117?style=for-the-badge&logo=wechat&logoColor=FFB000&labelColor=0D1117" alt="WeChat — 展开二维码" /></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/underestimatedme/underestimatedme/main/assets/wechat-qr.png" width="280" alt="WeChat QR — magic_joey" />
+
+<sub><code>WeChat ID &#183; magic_joey</code></sub>
+
+</details>
 
 <br/>
 
